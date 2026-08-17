@@ -1,4 +1,0 @@
-label	max_dist_cluster	alpha_post	is_reference	configuration_id
-voisin_inferieur	60	0.025	FALSE	mdc_060_alpha_0.025
-reference	80	0.05	TRUE	mdc_080_alpha_0.050
-voisin_superieur	100	0.1	FALSE	mdc_100_alpha_0.100

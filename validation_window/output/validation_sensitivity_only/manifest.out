@@ -1,7 +1,0 @@
-key	value
-source_window	62
-validation_windows	1,15,30,62,90,120
-validation_rule	Distance < MaxDist
-criteria	mBIC,BM_BJ,BM_slope,Lav
-source_full_v2	/home/potel/etude_sensi_post_PMLseg/output/CODE_REPRO_2015_OPER.v_20260131/PMLseg_user.1_parameter_grid/result.out
-source_RSAsD	/home/potel/etude_sensi_post_PMLseg/output_RSAsD/CODE_REPRO_2015_OPER.v_20260131/PMLseg_user.1_parameter_grid/result.out
